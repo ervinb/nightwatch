@@ -14,7 +14,7 @@ Nightwatch works with the Selenium standalone server so the first thing you need
 
 ### Install Nightwatch
 
-Install Node.js and then:
+Install Node.js, then:
 ```sh
 $ git clone git@github.com:beatfactor/nightwatch.git
 $ cd nightwatch
