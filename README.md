@@ -34,3 +34,5 @@ In addition to [Twitter](https://twitter.com/nightwatchjs), the [Mailing List/Go
 Browser specific setup and usage guides along with debugging instructions can be found on the [**Wiki**](https://github.com/beatfactor/nightwatch/wiki).
 
 ##
+---
+##
