@@ -1,4 +1,4 @@
-# Nightwatch - test
+# Nightwatch | test
 
 UI automated testing framework powered by [Node.js](http://nodejs.org/). It uses the [Selenium WebDriver API](https://code.google.com/p/selenium/wiki/JsonWireProtocol).
 
