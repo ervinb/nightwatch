@@ -1,4 +1,4 @@
-# Nightwatch -- test
+# Nightwatch | test
 
 UI automated testing framework powered by [Node.js](http://nodejs.org/). It uses the [Selenium WebDriver API](https://code.google.com/p/selenium/wiki/JsonWireProtocol).
 
@@ -13,7 +13,6 @@ Nightwatch works with the Selenium standalone server so the first thing you need
 **http://selenium-release.storage.googleapis.com/index.html**
 
 ### Install Nightwatch
-
 Install Node.js and then:
 ```sh
 $ git clone git@github.com:beatfactor/nightwatch.git
